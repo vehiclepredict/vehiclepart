@@ -52,7 +52,7 @@ def on_click_callback():
 load_css()
 initialize_session_state()
 
-st.title("Chat With Guava Predictor 🤖")
+st.title("Chat With EV Solution Predictor 🤖")
 
 chat_placeholder = st.container()
 prompt_placeholder = st.form("chat-form")
